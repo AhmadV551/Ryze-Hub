@@ -1,2 +1,2 @@
 -- Ryze Hub | Auto Fishing
-loadstring(game:HttpGet("https://pastebin.com/raw/Q0QTJ3TA"))()
+loadstring(game:HttpGet("https://pastefy.app/tZmacjZn/raw"))()
